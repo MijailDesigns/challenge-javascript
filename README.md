@@ -19,3 +19,6 @@ _No se frustren si no pueden con tal o cual ejercicio porque está pensado para 
 
 ---
 Hecho con ❤️ por Javi y Ailu 😊
+
+Saludos compañeros, subido la resolucion de este Fake Checkpoint, hice algunas modificaciones en el package.json, originalmente usaba mocha para el test pero debido a que no funcionaba y ya que por el momento solo conozcon jest, decidi eliminar el mocha y reemplazarlo por el jest para que me corran los test, de resto no toque el test mas que para quitar los skip ya que estaban todos los skipeados y hay un error el segundo test de la funcion quickSort.
+Saludos Mijail Pulgar😊
